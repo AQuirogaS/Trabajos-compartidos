@@ -1,0 +1,15 @@
+header{
+    background-color: rgba(56, 124, 202, 0.76);
+    height: 75px;
+    padding-left: 80px;
+}
+main{
+    background-color: rgba(236, 236, 236, 0.925);
+}
+.dato{
+    font-weight: 500;
+}
+.opcional{
+    color: gray;
+    font-weight: 400;
+}
